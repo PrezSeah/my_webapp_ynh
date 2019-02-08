@@ -1,6 +1,6 @@
 {
-    "id": "my_webapp",
-    "name": "Custom Webapp",
+    "id": "prezfy-my_webapp",
+    "name": "Prezfy Custom Webapp",
     "packaging_format": 1,
     "description": {
         "en": "Custom Web app with SFTP access",
